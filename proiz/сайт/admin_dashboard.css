@@ -1,0 +1,38 @@
+body {
+    font-family: 'Tahoma', sans-serif;
+    background-color: #fff3cd;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #28a745;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    color: #856404;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.button {
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+}
